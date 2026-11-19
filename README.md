@@ -38,5 +38,7 @@ streamlit run app.py
 ## Tech stack
 Python, pandas, scikit-learn, matplotlib, seaborn, Streamlit
 
+live demo : https://fake-job-posting-detector-43to3euqkccb3xv3uutstr.streamlit.app/
+
 ## Author
 Yasmeen Khan
